@@ -6,4 +6,7 @@ Rencana Konten
   * Belajar CSS 3
 - Belajar Bootstrap
 - Belajar Javascript
-  
+  * tipe data
+  * Operator
+  * Pengulangan
+  * Pengkondisian
