@@ -1,6 +1,7 @@
 Rencana Konten
 
 - Belajar HTML
+  * Mencari tahu apa yang baru tentang HTML
 - Belajar CSS
   * Belajar CSS Layouting
 - Belajar Bootstrap
@@ -9,5 +10,6 @@ Rencana Konten
   * Operator
   * Pengulangan
   * Pengkondisian
-- Belajar PHP
-- Belajar PHP Frameworks
+  * Membuat game suwit jawa
+  * Coba belajar framework Javascript
+
