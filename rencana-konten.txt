@@ -4,7 +4,6 @@ Rencana Konten
   * Mencari tahu apa yang baru tentang HTML
 - Belajar CSS
   * Belajar CSS Layouting
-  * Belajar CSS 3
 - Belajar Bootstrap
 - Belajar Javascript
   * tipe data
@@ -13,3 +12,4 @@ Rencana Konten
   * Pengkondisian
   * Membuat game suwit jawa
   * Coba belajar framework Javascript
+
