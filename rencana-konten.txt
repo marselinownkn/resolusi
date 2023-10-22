@@ -1,6 +1,7 @@
 Rencana Konten
 
 - Belajar HTML
+  * Mencari tahu apa yang baru tentang HTML
 - Belajar CSS
   * Belajar CSS Layouting
   * Belajar CSS 3
