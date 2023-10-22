@@ -10,3 +10,5 @@ Rencana Konten
   * Operator
   * Pengulangan
   * Pengkondisian
+  * Membuat game suwit jawa
+  * Coba belajar framework Javascript
